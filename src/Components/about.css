@@ -1,0 +1,18 @@
+img {
+    overflow: hidden;
+    width: 90%;
+}
+
+
+.intro-text {
+    margin: 0;
+    padding: 0rem 1rem;
+    width:80%;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%);
+    color: whitesmoke;
+    font-size: 5vh;
+}
+

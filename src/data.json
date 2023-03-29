@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "title": "Privacy Screenshot",
+        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+        "imageurl": "",
+        "link": "abc"
+    },
+    {
+        "id": 1,
+        "title": "Privacy Screenshot",
+        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+        "imageurl": "",
+        "link": "abc"
+    },
+    {
+        "id": 2,
+        "title": "Privacy Screenshot",
+        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+        "imageurl": "",
+        "link": "abc"
+    }
+]

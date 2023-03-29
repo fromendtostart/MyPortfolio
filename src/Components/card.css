@@ -1,3 +1,15 @@
 .root{
     font: #fff;
 }
+
+.card{
+    margin: 0rem 2rem;
+    display: flex;
+    gap:5rem;
+    justify-content: space-around;
+    font-size: 2rem;
+}
+
+.card:hover{
+    color:green;
+}

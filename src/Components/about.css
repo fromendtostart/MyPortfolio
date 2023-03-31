@@ -12,21 +12,41 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .intro-text{
     text-align: center;
     color: var(--color-seconday);
-    margin: 0 max(10%, 10rem);
-    font-size: 350%;
+    margin: 6rem;
+    font-size: 3.6rem;
 }
 
 .nav-buttons{
-    margin: 0 max(5%, 10rem) 4rem max(5%, 10rem);
+    margin: auto 10vw 20vh 10vw;
     display: flex;
     flex-wrap: wrap;
     gap: 2rem 5rem;
     justify-content: center;
 }
 
+.nav-buttons button{
+    font-size: 5vh;
+    padding:1rem;
+}
+
+@media only screen and (max-width: 760px) {
+    .intro-text {
+      margin : 15vh 10vw auto 10vw;
+      font-size: 2.5rem;
+    }
+    .nav-buttons{
+        gap : 1vh;
+    }
+    .nav-buttons button{
+        margin: auto;
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+  }
+  

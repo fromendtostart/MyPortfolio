@@ -10,8 +10,10 @@ export default function Work(){
                     data.map(element =>{
                         return(
                         <div className="card">
-                            <Card title = {element.title}
-                            image-url = {element.imageurl}
+                            <Card 
+                            id = {element.id}
+                            title = {element.title}
+                            imageurl = {element.imageurl}
                             description = {element.description}
                             link = {element.link} />
                         </div>

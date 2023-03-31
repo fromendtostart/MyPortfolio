@@ -1,23 +1,23 @@
 [
     {
-        "id": 0,
-        "title": "Privacy Screenshot",
-        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
-        "imageurl": "",
-        "link": "abc"
-    },
-    {
         "id": 1,
         "title": "Privacy Screenshot",
         "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
-        "imageurl": "",
-        "link": "abc"
+        "imageurl": "../PrivacyScreenshot.png",
+        "link": "https://github.com/fromendtostart"
     },
     {
         "id": 2,
         "title": "Privacy Screenshot",
         "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
-        "imageurl": "",
-        "link": "abc"
+        "imageurl": "../PrivacyScreenshot.png",
+        "link": "https://github.com/fromendtostart"
+    },
+    {
+        "id": 3,
+        "title": "Privacy Screenshot",
+        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+        "imageurl": "../PrivacyScreenshot.png",
+        "link": "https://github.com/fromendtostart"
     }
 ]

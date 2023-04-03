@@ -11,12 +11,30 @@
 }
 
 .skill{
-    background-color: green;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 0.5rem;
+}
+
+.skill img{
     height: 6rem;
     width: 6rem;
 }
 
-.pscard{
-    border: solid 2px green
+.problem-solving{
+    margin:10rem;
+    display: flex;
+    gap:3rem;
+    justify-content: space-around;
+}
+
+.pscard img{
+    width:30rem;
+    height:auto;
+}
+
+#codeforces{
+    border: solid 2px green;
 }
 

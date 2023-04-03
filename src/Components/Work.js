@@ -1,5 +1,6 @@
 import data from "../data.json"
 import Card from "./Card"
+import "./work.css"
 
 export default function Work(){
     
@@ -9,7 +10,7 @@ export default function Work(){
                 {
                     data.map(element =>{
                         return(
-                        <div className="card">
+                        <div className="cards">
                             <Card 
                             id = {element.id}
                             title = {element.title}

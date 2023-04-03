@@ -1,0 +1,22 @@
+.root{
+    box-sizing: border-box;
+}
+
+.devskills{
+    margin:4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap : 3rem;
+    justify-content: center;
+}
+
+.skill{
+    background-color: green;
+    height: 6rem;
+    width: 6rem;
+}
+
+.pscard{
+    border: solid 2px green
+}
+

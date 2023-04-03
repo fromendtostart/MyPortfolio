@@ -3,12 +3,6 @@
     box-sizing: border-box;
 }
 
-.cards{
-    display: flex;
-    flex-direction: column;
-    gap:2rem;
-}
-
 .card{
     display: flex;
     gap:3rem;
@@ -34,4 +28,15 @@
 .project-image img{
     width: auto;
     height:15rem
+}
+
+@media only screen and (max-width: 580px){
+    .card{
+        font-size: 1.3rem;
+    }
+
+    .project-image{
+        display: flex;
+        justify-content: center;
+    }
 }

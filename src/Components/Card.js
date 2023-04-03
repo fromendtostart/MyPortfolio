@@ -2,7 +2,6 @@ import "./card.css"
 
 export default function Card({id, title, imageurl, description, link}){
     return(
-        <div className="cards">
             <div className="card">
                 <div className="project-image">
                     <img src = {imageurl} alt = "project" key={id}/>
@@ -15,6 +14,5 @@ export default function Card({id, title, imageurl, description, link}){
                     </div>
                 </div>
             </div>
-        </div>
     )
 }

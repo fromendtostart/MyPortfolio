@@ -1,3 +1,9 @@
 .root{
     font: #fff;
 }
+
+@media only screen and (max-width: 580px){
+    .card{
+        flex-direction: column;
+    }
+}

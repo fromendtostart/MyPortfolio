@@ -38,3 +38,9 @@
     border: solid 2px green;
 }
 
+.codechef-desc{
+    position: relative;
+    text-align: center;
+    bottom: 17rem;
+    font-size: 1.5rem;
+}

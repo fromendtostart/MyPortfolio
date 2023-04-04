@@ -20,40 +20,51 @@ export default function Skills(){
             <div className="devskills">
                 <div className="skill">
                     <img src = {reactlogo} alt = "react logo"></img>
-                    {/* React */}
+                    React
                 </div>
                 <div className="skill">
-                <img src = {gitlogo} alt = "git logo"></img>
+                    <img src = {gitlogo} alt = "git logo"></img>
+                    Git
                 </div>
                 <div className="skill">
-                <img src = {nodelogo} alt = "node logo"></img>
+                    <img src = {nodelogo} alt = "node logo"></img>
+                    Node
                 </div>
                 <div className="skill">
-                <img src = {cpplogo} alt = "c++ logo"></img>
+                    <img src = {cpplogo} alt = "c++ logo"></img>
+                    C++
                 </div>
                 <div className="skill">
-                <img src = {javascriptlogo} alt = "JS logo"></img>
+                    <img src = {javascriptlogo} alt = "JS logo"></img>
+                    Javascript
                 </div>
                 <div className="skill">
-                <img src = {dockerlogo} alt = "docker logo"></img>
+                    <img src = {dockerlogo} alt = "docker logo"></img>
+                    Docker
                 </div>
                 <div className="skill">
-                <img src = {kuberneteslogo} alt = "kubernetes logo"></img>
+                    <img src = {kuberneteslogo} alt = "kubernetes logo"></img>
+                    Kubernetes
                 </div>
                 <div className="skill">
-                <img src = {typescriptlogo} alt = "typescript logo"></img>
+                    <img src = {typescriptlogo} alt = "typescript logo"></img>
+                    Typescript
                 </div>
                 <div className="skill">
-                <img src = {css3logo} alt = "css3 logo"></img>
+                    <img src = {css3logo} alt = "css3 logo"></img>
+                    CSS
                 </div>
                 <div className="skill">
-                <img src = {pythonlogo} alt = "python logo"></img>
+                    <img src = {pythonlogo} alt = "python logo"></img>
+                    Python
                 </div>
                 <div className="skill">
-                <img src = {clogo} alt = "c logo"></img>
+                    <img src = {clogo} alt = "c logo"></img>
+                    C
                 </div>
                 <div className="skill">
-                <img src = {htmllogo} alt = "html logo"></img>
+                    <img src = {htmllogo} alt = "html logo"></img>
+                    HTML
                 </div>
             </div>
             <div className="problem-solving">
@@ -62,6 +73,11 @@ export default function Skills(){
                 </div>
                 <div className="pscard" id="codechef">
                     <img src={starimage} alt = "star"></img>
+                    <div className="codechef-desc">
+                        4 star <br/>
+                        4 rank globally <br/>
+                        <button>Profile</button>
+                    </div>
                 </div>
             </div>
         </div>

@@ -12,7 +12,9 @@
 }
 
 .description:hover{
-    background-color:rgb(138, 219, 138);
+    /* background-color:rgb(138, 219, 138); */
+    scale: 1.05;
+    box-shadow:#3b3a3a;
 }
 
 .description{

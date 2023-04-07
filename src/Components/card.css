@@ -10,26 +10,28 @@
     font-size: 1.5rem;
     /* border: solid  green; */
 }
-
-.description:hover{
-    /* background-color:rgb(138, 219, 138); */
-    scale: 1.05;
-    box-shadow:#3b3a3a;
-}
-
 .description{
     padding:1rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     border-radius: 1rem;
+    transition: scale 450ms;
+}
+
+.description:hover{
+    /* background-color:rgb(138, 219, 138); */
+    scale: 1.05;
+    box-shadow:#0f0f0f;
+    
 }
 .project-image{
     padding: 1rem;
+    height: auto;
 }
 .project-image img{
-    width: auto;
-    height:15rem
+    width: 15rem;
+
 }
 
 @media only screen and (max-width: 580px){

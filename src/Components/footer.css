@@ -1,0 +1,17 @@
+.root{
+    box-sizing: border-box;
+}
+
+.footer h2{
+    text-align: center;
+}
+
+.footer img{
+    height:4rem;
+}
+
+.contacts{
+    margin:2rem;
+    display: flex;
+    justify-content: space-around;
+}

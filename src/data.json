@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "title": "Privacy Screenshot",
+        "title": "Hospital Connect",
         "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
-        "imageurl": "../PrivacyScreenshot.png",
+        "imageurl": "../HospitalConnect.png",
         "link": "https://github.com/fromendtostart"
     },
     {
         "id": 2,
-        "title": "Hospital Connect",
+        "title": "Privacy Screenshot",
         "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
-        "imageurl": "../HospitalConnect.png",
+        "imageurl": "../PrivacyScreenshot.png",
         "link": "https://github.com/fromendtostart"
     },
     {

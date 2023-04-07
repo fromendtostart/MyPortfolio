@@ -35,7 +35,11 @@
 }
 
 #codeforces{
-    border: solid 2px green;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 1.5rem;
+    gap:1rem;
 }
 
 .codechef-desc{
@@ -43,4 +47,9 @@
     text-align: center;
     bottom: 17rem;
     font-size: 1.5rem;
+}
+
+.profile-button{
+    width: fit-content;
+    align-self: center;
 }

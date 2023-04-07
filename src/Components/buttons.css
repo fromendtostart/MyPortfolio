@@ -8,7 +8,7 @@
 }
 
 button:hover{
-    box-shadow: rgba(80, 63, 205, 0.5) 0 1px 30px;
+    box-shadow: rgba(16, 123, 41, 1) 0 4px 15px;
     transition-duration: .1s;
 }
 

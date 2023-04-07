@@ -12,6 +12,7 @@ import cpplogo from "../images/cpp.png"
 import clogo from "../images/c.png"
 import gitlogo from "../images/git.png"
 import starimage from "../images/A_star.png";
+import codeforcesImage from "../images/PScode.png";
 
 
 export default function Skills(){
@@ -69,14 +70,17 @@ export default function Skills(){
             </div>
             <div className="problem-solving">
                 <div className="pscard" id="codeforces">
-                        codeforces
+                    Codeforces
+                    <span style={{color:"green"}}><strong>Pupil</strong> (1308)</span>
+                    <img src = {codeforcesImage} alt = "code"></img>
+                    <button className="profile-button">Profile</button> 
                 </div>
                 <div className="pscard" id="codechef">
                     <img src={starimage} alt = "star"></img>
                     <div className="codechef-desc">
                         4 star <br/>
                         4 rank globally <br/>
-                        <button>Profile</button>
+                        <button className="profile-button">Profile</button>
                     </div>
                 </div>
             </div>

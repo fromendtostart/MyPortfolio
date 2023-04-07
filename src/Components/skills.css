@@ -25,12 +25,13 @@
 .problem-solving{
     margin:10rem;
     display: flex;
+    flex-wrap: wrap;
     gap:3rem;
     justify-content: space-around;
 }
 
 .pscard img{
-    width:30rem;
+    width:min(25rem, 95vw);
     height:auto;
 }
 
@@ -45,7 +46,7 @@
 .codechef-desc{
     position: relative;
     text-align: center;
-    bottom: 17rem;
+    bottom: min(13.5rem, 57vw);
     font-size: 1.5rem;
 }
 

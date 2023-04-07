@@ -15,6 +15,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    border: 2px solid #f2bff7;
     border-radius: 1rem;
     transition: scale 450ms;
 }

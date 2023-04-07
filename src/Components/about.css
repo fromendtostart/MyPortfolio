@@ -1,44 +1,50 @@
 :root{
+    box-sizing: border-box;
     --color-primary : #fff;
-    --color-seconday : green;
+    --color-seconday : rgb(113, 0, 128);
 }
 
 .intro-section{
     height: 100dvh;
-    color: var(--color-primary);
-    background-image: url("../screen.png");
+    margin: -0.5rem -0.5rem 3rem -0.5rem;
+    color: var(--color-secondary);
+    /* #A239CA */
+    background-image: url("../screen.png"), linear-gradient(to bottom right, rgb(83, 26, 158), rgb(244, 9, 217));
     background-repeat: no-repeat;
     background-size: 100% 100% ;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    gap:4rem;
 }
+
+
 
 .intro-text{
     text-align: center;
-    color: var(--color-seconday);
-    margin: 6rem;
     font-size: 3.6rem;
+    margin-left: 5rem;
+    margin-right: 5rem
 }
 
 .nav-buttons{
-    margin: auto 10vw 20vh 10vw;
     display: flex;
     flex-wrap: wrap;
     gap: 2rem 5rem;
     justify-content: center;
+    margin-left: 6rem;
+    margin-right: 6rem;
 }
 
 .nav-buttons button{
-    font-size: 5vh;
+    font-size: 3.5vh;
     padding:1rem;
 }
 
 @media only screen and (max-width: 760px) {
     .intro-text {
-      margin : 15vh 10vw auto 10vw;
-      font-size: 2.5rem;
+      font-size: 2rem;
     }
     .nav-buttons{
         gap : 1vh;

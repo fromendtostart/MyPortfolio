@@ -8,7 +8,7 @@
     height: 100dvh;
     margin: -0.5rem -0.5rem 3rem -0.5rem;
     color: var(--color-secondary);
-    /* #A239CA */
+    /* rgb(86, 33, 155), rgb(243, 102, 226) */
     background-image: url("../screen.png"), linear-gradient(to bottom right, rgb(83, 26, 158), rgb(244, 9, 217));
     background-repeat: no-repeat;
     background-size: 100% 100% ;

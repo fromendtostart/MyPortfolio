@@ -8,11 +8,11 @@ export default function About(){
             <div className="intro-section">
                 <div className = "intro-text">Hi! I'm Chandramauli. Let me take you through tour.</div>
                 <div className = "nav-buttons">
-                    <Button name = "Projects" />
-                    <Button name = "Projects" />
-                    <Button name = "Projects" />
-                    <Button name = "Projects" />
-                    <Button name = "Projects" />
+                    <a href={"#projects"}><Button name = "Projects" /></a>
+                    <a href={"#devskills"}><Button name = "Skills" /></a>
+                    <Button name = "Problem Solving" />
+                    <Button name = "Work" />
+                    <Button name = "Contact" />
                 </div>
             </div>
         </div>

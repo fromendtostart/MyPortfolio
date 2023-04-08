@@ -6,7 +6,7 @@ import linkedinLogo from "../images/linkedin.png"
 
 export default function Footer(){
     return(
-        <div className="footer">
+        <div className="footer" id = "contact">
             <div className="footer-title">
                 <h2>Contact</h2>
             </div>

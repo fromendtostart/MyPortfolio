@@ -5,7 +5,7 @@ import "./projects.css"
 export default function Projects(){
     
     return(
-        <div className="work">
+        <div className="projects">
             <div className="cards">
                 {
                     data.map(element =>{

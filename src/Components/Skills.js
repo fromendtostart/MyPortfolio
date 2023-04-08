@@ -17,7 +17,8 @@ import codeforcesImage from "../images/PScode.png";
 
 export default function Skills(){
     return(
-        <div className="skills">
+        <div className="skills" id="skills">
+            <h1>Language, frameworks and tools</h1>
             <div className="devskills" id="devskills">
                 <div className="skill">
                     <img src = {reactlogo} alt = "react logo"></img>
@@ -68,7 +69,8 @@ export default function Skills(){
                     HTML
                 </div>
             </div>
-            <div className="problem-solving" id = "problemsolving">
+            <h1 id = "problemsolving">Problem solving skills</h1>
+            <div className="problem-solving" >
                 <div className="pscard" id="codeforces">
                     Codeforces
                     <span style={{color:"green"}}><strong>Pupil</strong> (1308)</span>

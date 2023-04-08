@@ -3,12 +3,17 @@
 }
 
 .devskills{
-    padding-top:4rem;
     margin:4rem;
     display: flex;
     flex-wrap: wrap;
     gap : 3rem;
     justify-content: center;
+}
+
+.skills{
+    margin:1px;
+    padding-top:4rem;
+    text-align: center;
 }
 
 .skill{
@@ -24,7 +29,6 @@
 }
 
 .problem-solving{
-    margin:10rem;
     display: flex;
     flex-wrap: wrap;
     gap:3rem;

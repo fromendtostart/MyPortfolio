@@ -2,22 +2,22 @@
     {
         "id": 1,
         "title": "Hospital Connect",
-        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+        "description": "A system for smooth interconnectivity between hospitals such that data of every patient can be accessed just by a click. I designed Backend in Javascript using ExpressJS.",
         "imageurl": "../HospitalConnect.png",
         "link": "https://github.com/fromendtostart"
     },
     {
         "id": 2,
         "title": "Privacy Screenshot",
-        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+        "description": "A simple python based GUI desktop application for taking screenshot which can detect sensitive parts like tabs of browser using OpenCV. It automatically crops them out and has options for taskbar and normal screenshot too.",
         "imageurl": "../PrivacyScreenshot.png",
-        "link": "https://github.com/fromendtostart"
+        "link": "https://github.com/fromendtostart/Privacy-Screenshot"
     },
     {
         "id": 3,
-        "title": "Privacy Screenshot",
-        "description": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+        "title": "Portfolio Website",
+        "description": "My portfolio website made using HTML, vanilla CSS and Javascript (ReactJS) showing my projects, work, tools I work with, my problem solving skills and how to contact me.",
         "imageurl": "../PrivacyScreenshot.png",
-        "link": "https://github.com/fromendtostart"
+        "link": "https://github.com/fromendtostart/MyPortfolio"
     }
 ]

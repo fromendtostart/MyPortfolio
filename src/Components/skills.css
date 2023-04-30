@@ -29,10 +29,11 @@
 }
 
 .problem-solving{
+    padding:2rem;
     display: flex;
     flex-wrap: wrap;
-    gap:3rem;
-    justify-content: space-around;
+    gap:10rem;
+    justify-content: center;
 }
 
 .pscard img{
@@ -48,6 +49,12 @@
     gap:1rem;
 }
 
+#codechef{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+}
+
 .codechef-desc{
     position: relative;
     text-align: center;
@@ -58,4 +65,10 @@
 .profile-button{
     width: fit-content;
     align-self: center;
+    font-size: 1rem;
+    background-color:white;
+    border: 2px solid rgb(83, 26, 158);
+    border-radius: 5px;
 }
+
+

@@ -2,12 +2,17 @@
     box-sizing: border-box;
 }
 
-.footer h2{
+.footer{
+    margin:1rem;
+    padding:2rem;
+}
+
+.footer h1{
     text-align: center;
 }
 
 .footer img{
-    height:4rem;
+    height:3.5rem;
 }
 
 .contacts{

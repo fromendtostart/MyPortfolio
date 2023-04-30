@@ -1,4 +1,13 @@
 .work{
-    padding:6rem;
+    margin: 1rem;
+    padding: 2rem;
     text-align: center;
+    transition: scale 450ms;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 10px 10px rgb(83, 26, 158);
+    font-size: 1.5rem;
+}
+
+.work:hover{
+    scale: 1.01;
 }

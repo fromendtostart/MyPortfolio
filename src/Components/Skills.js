@@ -78,11 +78,12 @@ export default function Skills(){
                     <button className="profile-button">Profile</button> 
                 </div>
                 <div className="pscard" id="codechef">
+                    Codechef
                     <img src={starimage} alt = "star"></img>
                     <div className="codechef-desc">
                         4 star <br/>
-                        4 rank globally <br/>
-                        <button className="profile-button">Profile</button>
+                        4847 rank (India) <br/><br/>
+                    <button className="profile-button"><a href="https://www.codechef.com/users/starttoend">Profile</a></button>
                     </div>
                 </div>
             </div>

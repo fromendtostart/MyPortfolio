@@ -11,7 +11,7 @@ export default function Card({id, title, imageurl, description, link}){
                     <div className="title">{title}</div>
                     <div className="descriptiontext">{description}</div>
                     <div className="link">
-                        <a href={link}>Github</a>
+                        <button><a href={link}>Github</a></button>
                     </div>
                 </div>
             </div>

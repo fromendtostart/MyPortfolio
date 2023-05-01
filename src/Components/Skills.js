@@ -75,7 +75,7 @@ export default function Skills(){
                     Codeforces
                     <span style={{color:"green"}}><strong>Pupil</strong> (1308)</span>
                     <img src = {codeforcesImage} alt = "code"></img>
-                    <button className="profile-button">Profile</button> 
+                    <button className="profile-button"><a href = "https://codeforces.com/profile/starttoend" target={"_blank"} rel = {"noreferrer"}>Profile</a></button> 
                 </div>
                 <div className="pscard" id="codechef">
                     Codechef
@@ -83,7 +83,7 @@ export default function Skills(){
                     <div className="codechef-desc">
                         4 star <br/>
                         4847 rank (India) <br/><br/>
-                    <button className="profile-button"><a href="https://www.codechef.com/users/starttoend">Profile</a></button>
+                    <button className="profile-button"><a href="https://www.codechef.com/users/starttoend" target={"_blank"} rel = {"noreferrer"}>Profile</a></button>
                     </div>
                 </div>
             </div>

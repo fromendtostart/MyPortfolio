@@ -19,7 +19,7 @@
     border-radius: 1rem;
     gap : 1rem;
     transition: scale 450ms;
-    box-shadow: 2px 2px 20px 2px rgb(83, 26, 158);
+    box-shadow: 2px 2px 10px 10px #531a9e;
     /* background-image: linear-gradient(to bottom right, rgb(83, 26, 158), rgb(244, 9, 217)); */
 }
 
@@ -39,9 +39,10 @@
 }
 
 .card button{
-    font-size: 1rem;
-    background-color: rgb(232, 121, 226);
-    border: 2px solid rgb(83, 26, 158);
+    font-size: 1.2rem;
+    color: #531a9e;
+    /* background-color: rgb(232, 121, 226); */
+    border: 1px solid rgb(83, 26, 158);
     border-radius: 5px;
     box-shadow: 2px 2px 20px 2px rgb(232, 121, 226);
 }

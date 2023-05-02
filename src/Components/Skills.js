@@ -18,7 +18,7 @@ import codeforcesImage from "../images/PScode.png";
 export default function Skills(){
     return(
         <div className="skills" id="skills">
-            <h1>Language, frameworks and tools</h1>
+            <h1>Languages, frameworks and tools</h1>
             <div className="devskills" id="devskills">
                 <div className="skill">
                     <img src = {reactlogo} alt = "react logo"></img>

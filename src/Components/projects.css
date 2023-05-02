@@ -2,7 +2,9 @@
     font: #fff;
 }
 
-
+h1{
+    text-align: center;
+}
 .cards{
     padding-top:2rem;
     display: flex;

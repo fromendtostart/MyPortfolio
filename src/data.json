@@ -17,7 +17,7 @@
         "id": 3,
         "title": "Portfolio Website",
         "description": "My portfolio website made using HTML, vanilla CSS and Javascript (ReactJS) showing my projects, work, tools I work with, my problem solving skills and how to contact me.",
-        "imageurl": "./PrivacyScreenshot.png",
+        "imageurl": "./PortfolioPicture.png",
         "link": "https://github.com/fromendtostart/MyPortfolio"
     }
 ]

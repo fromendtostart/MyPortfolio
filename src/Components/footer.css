@@ -18,7 +18,8 @@
 .contacts{
     margin:2rem;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap:2rem;
 }
 
 .contacts p{

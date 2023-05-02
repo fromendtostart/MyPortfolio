@@ -10,7 +10,7 @@ export default function Projects(){
                 {
                     data.map(element =>{
                         return(
-                        <div className="cards" id="projects">
+                        <div className="cards" id="projects" key={element.id}>
                             <Card 
                             id = {element.id}
                             title = {element.title}

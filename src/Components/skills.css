@@ -32,8 +32,8 @@
     padding:2rem;
     display: flex;
     flex-wrap: wrap;
-    gap:10rem;
-    justify-content: center;
+    justify-content: space-around;
+    gap:3rem;
 }
 
 .pscard img{

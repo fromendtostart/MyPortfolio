@@ -13,6 +13,7 @@ import clogo from "../images/c.png"
 import gitlogo from "../images/git.png"
 import starimage from "../images/A_star.png";
 import codeforcesImage from "../images/PScode.png";
+import mongodblogo from "../images/mongodb.png";
 
 
 export default function Skills(){
@@ -35,6 +36,10 @@ export default function Skills(){
                 <div className="skill">
                     <img src = {cpplogo} alt = "c++ logo"></img>
                     C++
+                </div>
+                <div className="skill">
+                    <img src = {mongodblogo} alt = "mongodb logo"></img>
+                    MongoDB
                 </div>
                 <div className="skill">
                     <img src = {javascriptlogo} alt = "JS logo"></img>
@@ -73,7 +78,7 @@ export default function Skills(){
             <div className="problem-solving" >
                 <div className="pscard" id="codeforces">
                     Codeforces
-                    <span style={{color:"green"}}><strong>Pupil</strong> (1308)</span>
+                    <span style={{color:"green"}}><strong>Specialist</strong> (1427)</span>
                     <img src = {codeforcesImage} alt = "code"></img>
                     <button className="profile-button"><a href = "https://codeforces.com/profile/starttoend" target={"_blank"} rel = {"noreferrer"}>Profile</a></button> 
                 </div>
@@ -82,7 +87,7 @@ export default function Skills(){
                     <img src={starimage} alt = "star"></img>
                     <div className="codechef-desc">
                         4 star <br/>
-                        4847 rank (India) <br/><br/>
+                        4713 rank (India) <br/><br/>
                     <button className="profile-button"><a href="https://www.codechef.com/users/starttoend" target={"_blank"} rel = {"noreferrer"}>Profile</a></button>
                     </div>
                 </div>

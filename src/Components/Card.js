@@ -11,7 +11,7 @@ export default function Card({id, title, imageurl, description, link}){
                     <div className="title">{title}</div>
                     <div className="descriptiontext">{description}</div>
                     <div className="link">
-                        <button><a href={link} target={"_blank"} rel = {"noreferrer"}>Github</a></button>
+                        <button><a style={{color:"white"}} href={link} target={"_blank"} rel = {"noreferrer"}>Github</a></button>
                     </div>
                 </div>
             </div>

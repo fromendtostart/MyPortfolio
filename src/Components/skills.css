@@ -53,12 +53,13 @@
     display: flex;
     flex-direction: column;
     font-size: 1.5rem;
+    gap:1rem;
 }
 
 .codechef-desc{
     position: relative;
     text-align: center;
-    bottom: min(13.5rem, 57vw);
+    bottom: min(15rem, 60vw);
     font-size: 1.5rem;
 }
 

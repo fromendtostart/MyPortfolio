@@ -78,7 +78,7 @@ export default function Skills(){
             <div className="problem-solving" >
                 <div className="pscard" id="codeforces">
                     Codeforces
-                    <span style={{color:"green"}}><strong>Specialist</strong> (1427)</span>
+                    <span style={{color:"darkturquoise"}}><strong>Pupil</strong> (1427)</span>
                     <img src = {codeforcesImage} alt = "code"></img>
                     <button className="profile-button"><a href = "https://codeforces.com/profile/starttoend" target={"_blank"} rel = {"noreferrer"}>Profile</a></button> 
                 </div>

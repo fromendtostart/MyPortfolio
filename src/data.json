@@ -3,8 +3,8 @@
         "id": 1,
         "title": "Your Health Buddy",
         "description": "A full stack MERN web application, with authentication, which helps you to make workout plans, keep track of them and gain isngihts. REST API at backend and React/Typescipt interface at frontend.",
-        "imageurl": "./PortfolioPicture.png",
-        "link": "https://github.com/fromendtostart/MyPortfolio"
+        "imageurl": "./YourHealthBuddy.png",
+        "link": "https://github.com/fromendtostart/YourHealthBuddy-Client"
     },
     {
         "id": 3,

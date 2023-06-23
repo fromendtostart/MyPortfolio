@@ -32,6 +32,7 @@
 .project-image{
     padding: 1rem;
     height: auto;
+    box-shadow:  0px 30px 5px rgb(83, 26, 158)
 }
 .project-image img{
     width: 15rem;

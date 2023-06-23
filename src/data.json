@@ -9,7 +9,7 @@
     {
         "id": 3,
         "title": "Hospital Connect",
-        "description": "A system for smooth interconnectivity between hospitals such that data of every patient can be accessed just by a click. I designed Backend in Javascript using ExpressJS.",
+        "description": "A system for smooth interconnectivity between hospitals such that data of every patient can be accessed just by a click. A team project where I designed Backend in Javascript using ExpressJS.",
         "imageurl": "./HospitalConnect.png",
         "link": "https://github.com/fromendtostart"
     },

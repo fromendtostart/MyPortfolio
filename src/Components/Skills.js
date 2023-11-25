@@ -76,7 +76,7 @@ export default function Skills(){
                 </div>
                 <div className="skill">
                     <img src = {awslogo} alt = "aws logo"></img>
-                    HTML
+                    AWS
                 </div>
             </div>
             <h1 id = "problemsolving">Problem solving skills</h1>

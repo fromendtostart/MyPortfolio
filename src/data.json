@@ -15,9 +15,9 @@
     },
     {
         "id": 2,
-        "title": "Privacy Screenshot",
-        "description": "A simple python based GUI desktop application for taking screenshot which can detect sensitive parts like tabs of browser using OpenCV. It automatically crops them out and has options for taskbar and normal screenshot too.",
-        "imageurl": "./PrivacyScreenshot.png",
-        "link": "https://github.com/fromendtostart/Privacy-Screenshot"
+        "title": "FilmCave",
+        "description": "An AI buddy with whom you can discuss about any movie without sending questions to server. Runs a light-weight BERT Machine Learning model on local browser and built using NextJs. Hosted on vercel.",
+        "imageurl": "./FilmCaveThumbnail.png",
+        "link": "https://github.com/fromendtostart/FilmCave"
     }
 ]

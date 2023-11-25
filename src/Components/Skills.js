@@ -14,6 +14,7 @@ import gitlogo from "../images/git.png"
 import starimage from "../images/A_star.png";
 import codeforcesImage from "../images/PScode.png";
 import mongodblogo from "../images/mongodb.png";
+import awslogo from "../images/aws.png";
 
 
 export default function Skills(){
@@ -71,6 +72,10 @@ export default function Skills(){
                 </div>
                 <div className="skill">
                     <img src = {htmllogo} alt = "html logo"></img>
+                    HTML
+                </div>
+                <div className="skill">
+                    <img src = {awslogo} alt = "aws logo"></img>
                     HTML
                 </div>
             </div>

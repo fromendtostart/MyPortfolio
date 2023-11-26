@@ -7,17 +7,24 @@
         "link": "https://github.com/fromendtostart/YourHealthBuddy-Client"
     },
     {
-        "id": 3,
-        "title": "Hospital Connect",
-        "description": "A system for smooth interconnectivity between hospitals such that data of every patient can be accessed just by a click. A team project where I designed Backend in Javascript using ExpressJS.",
-        "imageurl": "./HospitalConnect.png",
-        "link": "https://github.com/fromendtostart"
-    },
-    {
         "id": 2,
         "title": "FilmCave",
         "description": "An AI buddy with whom you can discuss about any movie without sending questions to server. Runs a light-weight BERT Machine Learning model on local browser and built using NextJs. Hosted on vercel.",
         "imageurl": "./FilmCaveThumbnail.png",
         "link": "https://github.com/fromendtostart/FilmCave"
+    },
+    {
+        "id": 3,
+        "title": "CommFind",
+        "description": "A web solution to help members of community find their lost items. Used ReactJs for front-end interface and hosted the back-end on AWS using S3 buckets for storage and automatically triggered AWS functions for pre-processing",
+        "imageurl": "./AWSarchitechture.png",
+        "link": "https://github.com/fromendtostart/CommFind"
+    },
+    {
+        "id": 3,
+        "title": "Privacy Screenshot",
+        "description": "A simple to use GUI tool for windows for taking privacy focused snapshots by automatically cropping sensitive parts like tabs and taskbar. Built using Python and OpenCV library for image recognition.",
+        "imageurl": "./PrivacyScreenshot.png",
+        "link": "https://github.com/fromendtostart/Privacy-Screenshot"
     }
 ]

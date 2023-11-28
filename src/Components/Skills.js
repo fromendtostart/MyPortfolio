@@ -15,6 +15,7 @@ import starimage from "../images/A_star.png";
 import codeforcesImage from "../images/PScode.png";
 import mongodblogo from "../images/mongodb.png";
 import awslogo from "../images/aws.png";
+import tailwindlogo from "../images/tailwind.png";
 
 
 export default function Skills(){
@@ -77,6 +78,10 @@ export default function Skills(){
                 <div className="skill">
                     <img src = {awslogo} alt = "aws logo"></img>
                     AWS
+                </div>
+                <div className="skill">
+                    <img src = {tailwindlogo} alt = "tailwind logo"></img>
+                    Tailwind
                 </div>
             </div>
             <h1 id = "problemsolving">Problem solving skills</h1>

@@ -28,16 +28,12 @@ export default function Skills(){
                     React
                 </div>
                 <div className="skill">
-                    <img src = {gitlogo} alt = "git logo"></img>
-                    Git
-                </div>
-                <div className="skill">
                     <img src = {nodelogo} alt = "node logo"></img>
                     Node
                 </div>
                 <div className="skill">
-                    <img src = {cpplogo} alt = "c++ logo"></img>
-                    C++
+                    <img src = {awslogo} alt = "aws logo"></img>
+                    AWS
                 </div>
                 <div className="skill">
                     <img src = {mongodblogo} alt = "mongodb logo"></img>
@@ -48,14 +44,6 @@ export default function Skills(){
                     Javascript
                 </div>
                 <div className="skill">
-                    <img src = {dockerlogo} alt = "docker logo"></img>
-                    Docker
-                </div>
-                <div className="skill">
-                    <img src = {kuberneteslogo} alt = "kubernetes logo"></img>
-                    Kubernetes
-                </div>
-                <div className="skill">
                     <img src = {typescriptlogo} alt = "typescript logo"></img>
                     Typescript
                 </div>
@@ -64,8 +52,20 @@ export default function Skills(){
                     CSS
                 </div>
                 <div className="skill">
-                    <img src = {pythonlogo} alt = "python logo"></img>
-                    Python
+                    <img src = {dockerlogo} alt = "docker logo"></img>
+                    Docker
+                </div>
+                <div className="skill">
+                    <img src = {kuberneteslogo} alt = "kubernetes logo"></img>
+                    Kubernetes
+                </div>
+                <div className="skill">
+                    <img src = {gitlogo} alt = "git logo"></img>
+                    Git
+                </div>
+                <div className="skill">
+                    <img src = {cpplogo} alt = "c++ logo"></img>
+                    C++
                 </div>
                 <div className="skill">
                     <img src = {clogo} alt = "c logo"></img>
@@ -74,10 +74,6 @@ export default function Skills(){
                 <div className="skill">
                     <img src = {htmllogo} alt = "html logo"></img>
                     HTML
-                </div>
-                <div className="skill">
-                    <img src = {awslogo} alt = "aws logo"></img>
-                    AWS
                 </div>
                 <div className="skill">
                     <img src = {tailwindlogo} alt = "tailwind logo"></img>

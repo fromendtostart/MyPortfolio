@@ -15,7 +15,7 @@ import starimage from "../images/A_star.png";
 import codeforcesImage from "../images/PScode.png";
 import mongodblogo from "../images/mongodb.png";
 import awslogo from "../images/aws.png";
-import nextjslogo from "../images/nextjs";
+import nextjslogo from "../images/nextjs.png";
 import tailwindlogo from "../images/tailwind.png";
 
 
